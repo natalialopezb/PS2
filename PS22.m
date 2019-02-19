@@ -60,8 +60,8 @@ Kl1 = Klp/Ll1; %Translation rate protein 1
 Kl2 = Klp/Ll2; %Translation rate protein 2
 Kl3 = Klp/Ll3; %Translation rate protein 3
 tl1 = Kl1/Ki; %Tau for protein 1
-tl2 = Kl2/Ki; %Tau for protein 1
-tl3 = Kl3/Ki; %Tau for protein 1
+tl2 = Kl2/Ki; %Tau for protein 2
+tl3 = Kl3/Ki; %Tau for protein 3
 
 %Initial conditions
 t_i = 0;
